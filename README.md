@@ -15,15 +15,15 @@ Link video demo: https://youtu.be/Mra5LPkKTJw
 ## Cấu trúc thư mục
 ```
 data/
-  words.txt           # Từ điển chính
+  words.txt          
   prefixTest1.txt   
   prefixTest2.txt    
   prefixTest3.txt     
 source/
-  TRIE/               # Thư mục project Visual Studio
-    TRIE/             # Mã nguồn TRIE (all.h, Trie.cpp, trie.h, main.cpp, ...)
-    TRIE.sln          # Solution file
-    TST/              # Mã nguồn TST (main.cpp, ...)
+  TRIE/              
+    TRIE/            
+    TRIE.sln          
+    TST/              
 Report.pdf           
 README.md             
 ```
