@@ -4,7 +4,7 @@
 Đây là dự án xây dựng ứng dụng từ điển sử dụng cây tiền tố (TRIE) để giải quyết bài toán autocomplete (gợi ý từ). Dự án đồng thời so sánh hiệu quả giữa hai cấu trúc dữ liệu TRIE và TST (Ternary Search Tree) trong việc tìm kiếm và gợi ý từ.
 
 ## Video demo
-Link video demo: https://youtu.be/Mra5LPkKTJw
+
 
 ## Tính năng chính
 - Xây dựng và thao tác với cây TRIE và TST.
